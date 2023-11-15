@@ -187,10 +187,16 @@ li{
 .SC{
     position: absolute;
     top: 1rem;
-    right: -1rem;
+    right: 1rem;
     
 }
 .imgSC{
     width: 5rem;
     height: 5rem;
+}
+.tag{
+    position: absolute;
+    top: -1rem;
+    right: 6rem;
+    color: white;
 }
